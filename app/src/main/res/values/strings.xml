@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Talk Clip</string>
+    <string name="title_activity_clip_talk">ClipTalkActivity</string>
+</resources>
